@@ -1,0 +1,36 @@
+
+/* Class = "IBUINavigationItem"; title = "ListContactsView"; ObjectID = "71a-Y1-fM8"; */
+"71a-Y1-fM8.title" = "ListContactsView";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "CjA-vA-weU"; */
+"CjA-vA-weU.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "FKx-ux-Z8a"; */
+"FKx-ux-Z8a.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "SelectContactView"; ObjectID = "OAX-Ru-PC7"; */
+"OAX-Ru-PC7.title" = "SelectContactView";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Vn1-Q5-B9g"; */
+"Vn1-Q5-B9g.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Yzo-kw-Rrp"; */
+"Yzo-kw-Rrp.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "er9-sU-h7n"; */
+"er9-sU-h7n.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "fEk-vR-t60"; */
+"fEk-vR-t60.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "p9q-Id-TCY"; */
+"p9q-Id-TCY.text" = "Label";
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "pGg-6v-bdr"; */
+"pGg-6v-bdr.title" = "Master";
+
+/* Class = "IBUINavigationItem"; title = "Mailing Lists"; ObjectID = "tQt-TN-PWz"; */
+"tQt-TN-PWz.title" = "لیست ها";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "uXe-yB-rzB"; */
+"uXe-yB-rzB.text" = "Label";
